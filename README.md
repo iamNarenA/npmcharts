@@ -1,3 +1,5 @@
+####
+
 <a href="https://npmcharts.com" style="max-width: 200px; display: block;">
   <img src="./packages/frontend/src/assets/images/logo.svg" alt="npmcharts" width="200"/>
 </a>
